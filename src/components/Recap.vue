@@ -138,9 +138,30 @@
           icon: 'mdi-pencil'
         },
         {
-          color: 'red',
+          color: 'white',
           year: 'August 7, 2024',
           headline: 'Session 11',
+          text: 'The last class of the week, offensive magic, was taught by Professor Meltlake, and Dahlen stayed after class to learn about cold resistance.\n\nThe group prepared themselves to go see "The Five Pointed Star" at the theatre, and Dashiel gave Dave some advice for asking Carolyn on a date.\n\nAt The Last Mistake, Dave gets drunk for the first time. As the party escorts him home, Dave decides that it was the perfect time to ambush Garmond. Dashiel brilliantly disguised himself as Garmond and put Dave to sleep, probably saving him from expulsion. They took Dave to the nurses office where they met Summer Armstrong, the school nurse who also happens to be a famous paladin known as "The Banshee of Torm".',
+          icon: 'mdi-drama-masks'
+        },
+        {
+          color: 'blue-lighten-4',
+          year: 'August 21, 2024',
+          headline: 'Session 12',
+          text: 'Flint greeted Chipp in the morning, and taught her the ins and outs of mail delivery at the school. Everyone (except Dashiel) got mail and packages from their families.\n\nSefy continued the cycle of war by placing 100 ants down Redpelt\'s shirt. Redpelt pranked Sefy back by pretending to die. When will this senseless violence end?\n\nSelmenoch located a water link chamber where he used some of his minutes to talk to his father in the feywild.\n\nThe group spent a significant amount of time debating their team name.\n\nThey accepted an invitation from Professor Meltlake, and traveled through a portal in her classroom which led to the other side of Manta. Here, she presented them with the task of clearing our a dungeon node in exchange for 1000 gold and whatever loot they found. They made their way into the dungeon where they fought a room full of undead that were manning a forge. A quick-thinking Sefy used Turn Undead to swing the battle in the group\'s favor, and they managed to clear the first room.',
+          icon: 'mdi-email-alert'
+        },
+        {
+          color: 'purple',
+          year: 'September 4, 2024',
+          headline: 'Session 13',
+          text: 'The party used ranked-choice voting to land on the name Fate\'s Needle.\n\nThe dungeon contained a series of three locks, made of 3 different tints of metal. They found casting molds for various weapons and a key. Fate\'s Needle traveled downward, deeper into the dungeon where a freezing cold room held frozen enemies, as well as crystals that contained different colored liquid. Dave also decided to scoop up some enemy blood which happened to be very blue.\n\nDave and Dashiel attempted to forge a key while the party took a short rest, but the metal they used was not strong enough, and exploded in their faces.\n\nThe party headed to a different room within the dungeon which was much hotter. This room contained a deep pond which was cooling drops of molten metal that were slowly falling from the ceiling. As Dashiel dove in to collect the metal baseballs, imps began to attack the party. This continued until the water was no longer being disturbed.\n\nWith the metal baseballs and crystal juice in-hand, the party returned to the forge and created the keys necessary for opening the large door. \n\nSix daggers were also forged:\nYellow\n    - Sefy & Chipp\nPurple\n     - Dahlen & Dashiel\nRed\n     - Dave & Selmenoch',
+          icon: 'mdi-key-chain'
+        },
+        {
+          color: 'red',
+          year: 'September 18, 2024',
+          headline: 'Session 14',
           text: 'Fate is about to get needled, baby.',
           icon: 'mdi-dice-d20'
         },

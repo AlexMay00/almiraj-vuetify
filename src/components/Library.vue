@@ -281,7 +281,7 @@
           text: 'The animated, over the top mixologist working in the bar car of the Darning Needle. Slicked back hair, wearing a blue/gray uniform.',
           info: '"What can I get ya, boy?"',
           tags: ['NPC', 'Darning Needle', 'Bartender'],
-          associations: ['Toggins', 'Pepper'],
+          associations: ['Toggins', 'Pepper', 'Tavern'],
           voice: '../bumper.ogg',
           icon: 'mdi-glass-mug-variant',
           type: 'character',
@@ -443,7 +443,7 @@
           order: 300
         },
         {
-          title: 'Aunt Meltlake',
+          title: 'Aunt Kelli Meltlake',
           subtitle: 'Wood Elf, Fire Mage',
           avatar: 'aunt.jpg',
           text: 'The strongest fire made in the world. Offensive magic teacher at Almiraj, and Aaron\'s aunt. She forced Aaron to destroy a dungeon crystal on his own, and Aaron thought that was preferable to dealing with her.',
@@ -666,7 +666,7 @@
           text: 'Bartender at The Last Mistake, a cafe/bar in town outside of Almiraj.',
           info: 'Calamity has a big crack in her left arm that has been filled with copper.',
           tags: ['NPC', 'Bartender'],
-          associations: ['Almiraj'],
+          associations: ['Almiraj', 'Tavern'],
           icon: 'mdi-glass-mug-variant',
           type: 'character',
           subtype: 'npc',
@@ -725,12 +725,12 @@
           order: 510
         },
         {
-          title: 'Carolyn',
+          title: 'Carolyn The Blackblade',
           subtitle: 'Goliath Warlock',
           avatar: 'carolyn.jpg',
           text: 'Carolyn carries a large sword, brandishing the same symbol as the necklace found by Dahlen.',
           info: 'Carolyn was the first goliath Dave had ever seen, aside form himself.\n\nShe lent Dahlen a play she had checked out from the library that Dashiel needed for his troupe.\n\nCarolyn encouraged Dahlen to lie about the fact that they do not know who their (likely shared) patron truly is.',
-          tags: ['NPC', 'Professor'],
+          tags: ['NPC', 'Student', 'Sapphire Basilisk'],
           associations: ['Almiraj'],
           icon: 'mdi-account-outline',
           type: 'character',
