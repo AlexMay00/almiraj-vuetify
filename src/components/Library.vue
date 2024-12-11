@@ -545,7 +545,7 @@
           avatar: 'duane.jpg',
           thumb: '../thumbs/duane.jpg',
           text: 'Bard mentor, Almiraj chef, entertainer. Middle aged, multi-talented, and charismatic as fuck.',
-          info: ' - "That\'s my advice... make your cleric do it!"',
+          info: 'Duane was a bard and protector of a king(?). "No one looks at the guy with the flute."\n\n- "That\'s my advice... make your cleric do it!"',
           tags: ['NPC', 'Professor'],
           associations: ['Almiraj'],
           voice: '../duane.ogg',
@@ -621,11 +621,11 @@
           order: 430
         },
         {
-          title: 'Headmistress Claire',
-          subtitle: 'Human, Witch',
+          title: 'Headmistress Claire Frostwatcher',
+          subtitle: 'Human, Not a Witch',
           avatar: 'claire.jpg',
           text: 'A small, wrinkly, older human woman who is both the Headmistress of the school, as well as the warlock mentor.',
-          info: 'Claire is helping Dahlen find a patron to follow.',
+          info: 'Claire is helping Dahlen find a patron to follow. She is not a warlock and described her class as "Don\'t worry about it.\n\n"Flattery will get you everywhere!"',
           tags: ['NPC', 'Professor'],
           associations: ['Almiraj'],
           icon: 'mdi-human-male-board',
