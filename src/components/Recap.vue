@@ -163,7 +163,37 @@
           color: 'red',
           year: 'September 18, 2024',
           headline: 'Session 14',
-          text: 'Fate is about to get needled, baby.',
+          text: 'As the party opened the door, they were immediately met with a copper crystal shard, like the other rooms. For a moment, some considered smashing the crystal right away, but cooler heads prevailed. Fate\'s Needle split up - Dash, Sefy and Dave approached the strange looking troll in the back of the room, while Sel, Dahlen, and Chipp stayed close to the crystal. The multi-headed dire troll challenged Dave to a game of "SKIP ROCK!!!" Dave performed quite poorly, angering the troll and triggering a fight.\n\n After a tough battle, the troll was felled and the crystal was destroyed. Chipp sent the troll off with a sick line about sending him back to his god.\n\nUpon exiting the dungeon, Fate\'s Needle finds that they have finished early and must wait for the other team. When they did finally finish, the other team appeared distraught. Topin\'s aura was gone, meaning he went nuclear to save his party - burning away his life force in the process. Redd seemed to blame himself, saying he acted too quickly, causing the fight to go sideways.\n\nMeltlake went into panic mode, but moved quickly to usher the class back to Almiraj. The professors quickly organized a party/memorial for Topin at The Smorgas Boar, knowing he had only 12 hours left to live. Many first-years and professors were there to celebrate Topin\'s life, despite the awkwardness of the situation. Drinks were drunk, drugs were taken, and speeches were made. Topin left with Apple to see the water one last time before he died.\n\nDahlen dreamt of another murder - this time a warlock was killed by a huge man\'s axe.',
+          icon: 'mdi-emoticon-dead',
+          avatar:'diretroll.jpg'
+        },
+        {
+          color: 'brown-darken-2',
+          year: 'October 16, 2024',
+          headline: 'Session 15',
+          text: 'The party woke up - some hung over, some not - reeling from the brutal events of the prior day. They wrestled with Topin\'s death, and wondered how many before him had the same fate at this school.\n\nEach member of Fate\'s Needle met with their mentors and attended class. Life goes on, with or without Topin.\n\nDuring Dahlen\'s mentor meeting, he learned that Carolyn wears the same patron symbol. Carolyn, however, claims that her patron is a Kraken - she is keeping secrets from her mentor and classmates. Dahlen spilled the beans to the Headmistress about his dreams and patron. He was also reprimanded for poorly roasting almonds.',
+          icon: 'mdi-peanut-off',
+          avatar:'almonds.jpg'
+        },
+        {
+          color: 'yellow-darken-2',
+          year: 'November 13, 2024',
+          headline: 'Session 16',
+          text: 'Time jump!\n\nFestival soon!\n\nShopping!\n\nDancing!\n\nMary asks an oblivious Dahlen to the dance!\n\nDave asks Carolyn to the dance with flowers instead of punching a message in the dirt!\n\nDashiel is doing a concern for Redd!\n\nSunbeam gets big and asks Dave to the dance!',
+          icon: 'mdi-clock-fast'
+        },
+        {
+          color: 'black',
+          year: 'December 11, 2024',
+          headline: 'Session 17',
+          text: 'Dashiel continued to work on his play, recruiting Dahlen to add magical effects, and making sure Dave will be around to help with the set. He also spent time working on lock picking with the training locks provided by The Black Thumb - he successfully picked 2 locks (of ten? I think?).\n\nDahlen attempted to research his patron, Sefy obtained a shopping list of items to re-power her scarf (giant spider silk and beast hair), and Chipp spent time honing her adventiball skills. Dave sulked in his room, upset that he misread his friendship with Sunbeam.\n\nOffensive Combat class was a fight between Fate\'s Needle and Beauty and Power. Garmond magically shaped a battle arena with a pond and a 30ft cliff. The fight was a battle royale - a free for all. The teams stuck together initially, but as the fight wore on friendly fire increased. After being repeatedly attacked by Sunbeam, Dave finally snapped and tackled her off of the cliff, screaming at her for not telling him about her feelings, and "killing" them both with the impact of the fall. Sefy and Selmenoch were the final two remaining, and Sel (who refused to hurt his friend) walked outside of the boundary to disqualify himself. Sefy wins!!',
+          icon: 'mdi-emoticon-angry'
+        },
+        {
+          color: 'red',
+          year: 'January 22, 2025',
+          headline: 'Session 18',
+          text: 'Fate\'s Needle - Pointy, Unpredictable, and Sometimes on Target',
           icon: 'mdi-dice-d20'
         },
       ].reverse(),

@@ -57,6 +57,13 @@
           icon: 'mdi-castle'
         },
         {
+          color: 'orange-darken-1',
+          year: '10978',
+          headline: 'A.S.A.A.',
+          text: 'The Almiraj School of Amazing Adventurers was established, training generations of adventurers for millenia to come.',
+          icon: 'mdi-shield-sword'
+        },
+        {
           color: 'teal-darken-1',
           year: '36300',
           headline: 'The Adventure Begins',

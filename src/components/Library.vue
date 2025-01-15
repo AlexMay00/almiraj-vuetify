@@ -737,6 +737,58 @@
           subtype: 'npc',
           order: 520
         },
+        {
+          title: 'Summer Armstrong',
+          subtitle: 'Dwarf, Paladin',
+          avatar: 'summer.jpg',
+          text: 'Also known as The Banshee of Torm, Summer is a famous healer and the school\'s nurse.',
+          info: 'Summer also helped heal Dave from an intense hangover he once had. She is helping Dave to expand his aura to potentially help other people.',
+          tags: ['NPC', 'Professor'],
+          associations: ['Almiraj'],
+          icon: 'mdi-human-male-board',
+          type: 'character',
+          subtype: 'npc',
+          order: 530
+        },
+        {
+          title: 'Fiend\'s Bane',
+          subtitle: 'Powder, Magical Item',
+          avatar: 'fiendsbane.jpg',
+          text: 'Sprinkle this powder in circle to prevent fiends from crossing for up to an hour.',
+          info: 'Enough for 2 people to fit inside of.\n\nWorth approximately 100gp.',
+          tags: ['Magic Item', 'Consumable'],
+          associations: ['Copper Dungeon'],
+          icon: 'mdi-shaker-outline',
+          type: 'item',
+          subtype: 'consumable',
+          order: 540
+        },
+        {
+          title: 'Blacksteel Daggers',
+          subtitle: 'Magical Damage',
+          avatar: 'blacksteeldagger.jpg',
+          text: 'Six daggers, crafted in the copper dungeon where Topin died. Two yellow (radiant), two red (fire), two purple (necrotic).',
+          info: 'These daggers do normal damage (1d4+dex+prof) PLUS 1d4 of their respective magic',
+          tags: ['Magic Item', 'Weapon', 'Radiant', 'Fire', 'Necrotic'],
+          associations: ['Copper Dungeon'],
+          icon: 'mdi-knife-military',
+          type: 'item',
+          subtype: 'weapon',
+          order: 550
+        },
+        {
+          title: 'Alberto Mirage',
+          subtitle: 'Human, Tailor',
+          avatar: 'alberto.jpg',
+          text: 'Owner of Alberto\'s Apparel. Yet another Al Mirage we met, this time while shopping for formal clothes to the annual festival.',
+          info: '',
+          tags: ['NPC', 'Tailor', 'Shop Owner'],
+          associations: ['Almiraj'],
+          icon: 'mdi-account-outline',
+          type: 'character',
+          subtype: 'npc',
+          order: 560
+        },
       ].sort(function(a, b){return b.order - a.order})
     }),
     methods: {
