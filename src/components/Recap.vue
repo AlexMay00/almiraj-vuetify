@@ -190,9 +190,16 @@
           icon: 'mdi-emoticon-angry'
         },
         {
-          color: 'red',
-          year: 'January 22, 2025',
+          color: 'orange-darken-2',
+          year: 'February 5, 2025',
           headline: 'Session 18',
+          text: 'Fate\'s needle attended defensive magic, their second class of the day, where Indari Windsong taught the class about healing word and other support spells. After Aaron awkwardly asked Chipp to have breakfast together, the part broke off to accomplish some personal tasks for the remainder of the day.\n\n- Dashiel tracked down Redd, who was drinking alone on a rooftop. Dashiel tried to confront Redd about his recent substance abuse, but decided it was the wrong time. They made out and peed over the ledge together. Dashiel then went to the theater for rehearsal of his play.\n\- Dave met up Carolyn, hoping to spend some one-on-one time together. He found her on the outskirts of the school grounds, fighting a demon that had been summed by one of her party members for fun. Dave watched for a bit, and declined a turn to fight a demon. After realizing Carolyn wasn\'t very interested in spending time with him, Dave cut his losses and left for the theater, catching up with Dashiel along the way.\n- Chipp went to adventiball practice, where she was expertly kicking balls. An aquatic elf named Coral was watching her from the stands, and complimented Chipp once practice was over. The two talked about ducks and how adventiball should be played aquatically.\n- Sefy spent some time baking in the team\'s dorm room. She tried out a new recipe with the ingredients she had on hand, and accidentally crafted the most psychedelic tea-cakes Manta has ever seen. She spent a few hours tripping in the room, where she had a tea party with six wooden spoons (the tea was perfect).\n- Dahlen crafted purple corsages for each of his dates to the dance. In the library, he learned from The Black Thumb that a few girls were looking for him. The Black Thumb gave Dahlen a tome of invisibility to help avoid them.\n\nTwo actors, Kate and Vererro, came down with the broom flu and are unable to perform on Sunday. Dashiel desperately recruited Dave and (a high as fuuuuck) Sefy to fill in. While searching for costumes, the party found a tiny door that led to a shrine of Bashaba, though it looked like it had not been disturbed in some time. Dashiel also used his secret-finding aura, which revealed a small brass ring hidden in one of the costume\'s pockets. \nAs rehearsal started, Dave felt this was his moment, and had secretly been memorizing the lines anyway. Sefy also did very well during rehearsal, considering how far out in to space she was.\nFate\'s Needle returned to their dorm, where they bantered for a while. Dashiel also cast a spell on Sefy to help her memorize her lines while she slept.',
+          icon: 'mdi-cupcake'
+        },
+        {
+          color: 'red',
+          year: 'February 19, 2025',
+          headline: 'Session 19',
           text: 'Fate\'s Needle - Pointy, Unpredictable, and Sometimes on Target',
           icon: 'mdi-dice-d20'
         },
