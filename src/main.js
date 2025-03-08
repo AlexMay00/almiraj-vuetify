@@ -16,6 +16,7 @@ import { createRouter, createWebHashHistory } from 'vue-router'
 import Library from './components/Library.vue'
 import CampaignTimeline from './components/CampaignTimeline.vue'
 import Recap from './components/Recap.vue'
+import Podcast from './components/Podcast.vue'
 import Links from './components/Links.vue'
 import NotFound from './components/NotFound.vue'
 
@@ -24,6 +25,7 @@ const routes = [
   { path: '/library', component: Library },
   { path: '/timeline', component: CampaignTimeline },
   { path: '/recap', component: Recap },
+  { path: '/podcast', component: Podcast },
   { path: '/links', component: Links },
   { path: '/404', component: NotFound },
 ]

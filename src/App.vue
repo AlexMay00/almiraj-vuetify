@@ -22,6 +22,10 @@
         <Recap></Recap>
       </v-container>
 
+      <v-container v-show="this.currentPage === '/podcast'" v-bind:id="this.currentPage">
+        <Podcast></Podcast>
+      </v-container>
+
       <v-container v-show="this.currentPage === '/timeline'" v-bind:id="this.currentPage">
         <CampaignTimeline></CampaignTimeline>
       </v-container>
@@ -55,6 +59,10 @@
         {
           title: 'Recap',
           value: '/recap',
+        },
+        {
+          title: 'Podcast',
+          value: '/podcast',
         },
         {
           title: 'Timeline',

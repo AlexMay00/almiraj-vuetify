@@ -64,6 +64,13 @@
           icon: 'mdi-shield-sword'
         },
         {
+          color: 'red-darken-1',
+          year: '36294',
+          headline: 'The King of Aloria is Assassinated',
+          text: 'During peace talks, the queen of Dyvesta poisoned the king of Aloria. Logan Cambridge was anointed as Aloria\'s new king and has been seeking to avenge his father ever since.',
+          icon: 'mdi-shield-sword'
+        },
+        {
           color: 'teal-darken-1',
           year: '36300',
           headline: 'The Adventure Begins',
