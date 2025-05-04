@@ -48,6 +48,20 @@
           description: 'Session 20: Carolyn\'s kidnapping & Dahlen\'s past.',
           file: 'podcast/fnep2.mp3',
         },
+        {
+          icon: 'mdi-podcast',
+          color: 'red',
+          title: 'Fate\'s Needle - Episode 3',
+          description: 'Sessions 21-23: \'Teamwork and snacks save the day.\'',
+          file: 'podcast/fnep3.mp3',
+        },
+        {
+          icon: 'mdi-podcast',
+          color: 'red',
+          title: 'Bonus Episode! - Dave Nornackle',
+          description: 'What is Dave\'s Story so far?',
+          file: 'podcast/bonusDave.mp3',
+        },
       ].sort(function(a, b){return a.title - b.title}),
     })
   }
