@@ -62,6 +62,13 @@
           description: 'What is Dave\'s Story so far?',
           file: 'podcast/bonusDave.mp3',
         },
+        {
+          icon: 'mdi-podcast',
+          color: 'red',
+          title: 'Fate\'s Needle - Episode 4',
+          description: 'Sessions 24-26: \'Dashiel sings, Dahlen shines, and Sefy speaks her mind.\'',
+          file: 'podcast/fnep4.mp3',
+        },
       ].sort(function(a, b){return a.title - b.title}),
     })
   }
