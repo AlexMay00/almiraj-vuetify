@@ -255,9 +255,17 @@
           icon: 'mdi-horse-human'
         },
         {
-          color: 'red',
+          color: 'blue-lighten-4',
           year: 'June 25, 2025',
           headline: 'Session 27',
+          text: 'Before they left, Sefy pulled Fate\'s Needle aside and tried to pay them the difference it cost to rent horses versus renting Mick\'s biomanced mounts. The party refused her payment and reassured her that they are a team, and would try to make better decisions future - promising to put helping people first. After the heart-to-heart, they stopped by Chart A Course, a cartography shop run by Gregg and Mariem Postille. Dashiel, as he does, immediately made friends with the chatty couple, and they helped the party plan their trip to Farrow. They warned them about dangerous animals, pointed out a few interesting places, and gave Dashiel a basic map for free.\n\nAs the party finally left Almiraj on their first real adventuring gig, the cold air filled their lungs, and a light snow began to fall. The first leg of their trip took them to Tobigo, a medium sized city north of Almiraj. They met a strange orc guard named Kevin, and stayed in an inn built to accommodate the larger races called "Big Mike\'s." After drinking mead made with the town\'s fresh local honey and listening to a man play a strange hodgepodge instrument, the party slept comfortably.\n\nThe following day, Dahlen continued to struggle with controlling and bonding with his mount. But the weather was clear again, and the party spent the majority of the day traveling northeast to Tolverwald - a city covered by a magical dome that keeps the interior a perfect 80 degrees year round. They stayed at an inn called The Queen\'s Carol in a sketchy part of town. In the morning, they left for the final leg of their trip, north toward Farrow.\n\nAlong the way, a felled tree was blocking the road. A man stood on a stump and called out to the party to "pay the tax" in order to proceed. Dave and Dashiel approached the man to attempt to negotiate, but a fight quickly broke out. The party was ambushed by nearly 20 men hiding among the trees. Sefy expertly dispatched a third of the men with a wind-wall spell that eviscerated their bodies with ice shards. Chipp took to the skies and started blasting the goons with beams of radiant energy. Dahlen called upon darker forces, creating a huge sphere of darkness, and summoning tentacles from a different dimension to bash his foes. Dave, enraged and enlarged, chopped the bandits down with an insatiable thirst for blood. Dashiel slowed the wrongdoers with his unsettling words and pointy sword. Things got hairy for a moment when Dashiel was knocked unconscious, but Fate\'s Needle prevailed in the end.\n\nLooking around at the slew of corpses and the blood-stained snow, the party realized that those were the first actual lives they have taken. And worse still, one of them got away.',
+          icon: 'mdi-wallet-travel',
+          avatar: 'dudes.jpg'
+        },
+        {
+          color: 'red',
+          year: 'July 8, 2025',
+          headline: 'Session 28',
           text: 'Fate\'s Needle - Pointy, Unpredictable, and Sometimes on Target.\n\n',
           icon: 'mdi-dice-d20'
         },

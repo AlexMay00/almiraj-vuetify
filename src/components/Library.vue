@@ -790,7 +790,7 @@
           info: '',
           tags: ['NPC', 'Tailor', 'Shop Owner'],
           associations: ['Almiraj'],
-          icon: 'mdi-account-outline',
+          icon: 'mdi-store',
           type: 'character',
           subtype: 'npc',
           order: 560
@@ -848,7 +848,7 @@
           tags: ['NPC', 'Shop Owner'],
           associations: ['Almiraj'],
           voice: null,
-          icon: 'mdi-account-outline',
+          icon: 'mdi-store',
           type: 'character',
           subtype: 'npc',
           order: 600
@@ -1028,7 +1028,7 @@
           tags: ['NPC', 'The Last Mistake', 'Shop Owner'],
           associations: ['Almiraj'],
           voice: null,
-          icon: 'mdi-account-outline',
+          icon: 'mdi-store',
           type: 'character',
           subtype: 'npc',
           order: 700
@@ -1056,7 +1056,7 @@
           tags: ['NPC', 'The Platinum Dragon', 'Shop Owner'],
           associations: ['Almiraj'],
           voice: null,
-          icon: 'mdi-account-outline',
+          icon: 'mdi-store',
           type: 'character',
           subtype: 'npc',
           order: 720
@@ -1109,7 +1109,7 @@
           tags: ['Magic Item', 'Bomb', 'Throwable'],
           associations: [],
           icon: 'mdi-bomb',
-          type: 'item',
+          type: 'weapon',
           order: 760
         },
         {
@@ -1121,10 +1121,64 @@
           tags: ['NPC', 'Mick\'s Magical Mounts', 'Shop Owner'],
           associations: ['Almiraj'],
           voice: null,
-          icon: 'mdi-account-outline',
+          icon: 'mdi-store',
           type: 'character',
           subtype: 'npc',
           order: 770
+        },
+        {
+          title: 'Gregg & Mariem Postille',
+          subtitle: 'Human & Gnome, Cartographers',
+          avatar: 'postille.jpg',
+          text: 'Owners of Chart a Course Cartography',
+          info: 'Gregg is a human man, and Mariem is a gnome woman. The married couple owns their shop, Chart A Course, together. They helped us plan our trip to Farrow, and gave us a basic map for free. They seemed excited to see a group of young adventurers headed out on their first real job. They also warned us about some dangers and mentioned a few interesting places along the way. Lovely couple.',
+          tags: ['NPC', 'Mick\'s Magical Mounts', 'Shop Owner'],
+          associations: ['Almiraj'],
+          voice: null,
+          icon: 'mdi-store',
+          type: 'character',
+          subtype: 'npc',
+          order: 780
+        },
+        {
+          title: 'Tobigo',
+          subtitle: 'Central Aloria',
+          avatar: 'tobigo.jpg',
+          text: 'A city just north of Almiraj',
+          info: 'Tobigo is a medium city of about 30k people. Classic medieval-esque town with a stone wall, taverns, guards, etc. The city\'s main focus is the keeping of their bees, and they are a major exporter of honey. They use this honey to make excellent mead.\n\nWe stayed at a place called "Big Mike\'s" that was an inn for larger races, run by a large minotaur man. We also drank at a tavern where a man with an insane instrument asked us to tip him before he played.',
+          tags: ['Town', 'Aloria'],
+          associations: [],
+          icon: 'mdi-city',
+          type: 'location',
+          subtype: 'city',
+          order: 790
+        },
+        {
+          title: 'Fuckin\' Kevin',
+          subtitle: 'Orc, Guard',
+          avatar: 'kevin.jpg',
+          text: 'Orc who guards the gates of Tobigo',
+          info: 'Kevin was weird. Like, really weird. Kevin told Dave to jerk off for 8 hours straight if he ever goes super saiyan. Kevin also told Dave that if he shits in a book, he will get one extra rage to use that day. Dave didn\'t believe him. Dave has a feeling Kevin is deeply evil, and will someday come back to haunt them.',
+          tags: ['NPC', 'Tobigo'],
+          associations: [''],
+          voice: null,
+          icon: 'mdi-account-outline',
+          type: 'character',
+          subtype: 'npc',
+          order: 800
+        },
+        {
+          title: 'Tolverwald',
+          subtitle: 'Central Aloria',
+          avatar: 'tolverwald.jpg',
+          text: 'A city Northeast of Almiraj, encased in a large blue/transparent magical dome.',
+          info: 'Tolverwald is medium\large sized city encased in a magical blueish dome. The inside of the dome stays exactly 80 degrees at all times - fires, rain, ice, or anything else has no effect on the climate within the dome. A river runs through the center of the city.\n\nWe stayed at a place called The Queen\'s Carol in a sketchy part of town.',
+          tags: ['Town', 'Aloria'],
+          associations: [],
+          icon: 'mdi-city',
+          type: 'location',
+          subtype: 'town',
+          order: 810
         },
       ].sort(function(a, b){return b.order - a.order})
     }),
